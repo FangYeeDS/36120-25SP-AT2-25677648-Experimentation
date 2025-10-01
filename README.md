@@ -5,7 +5,7 @@
 </a>
 
 **Project Description:**  
-As part of Open Meteo’s AI integration initiative, two machine learning models will be developed to improve weather forecasting for Sydney. The first model is a binary classifier designed to predict whether rain will occur exactly 7 days from a given date. The second model is a regression model aimed at forecasting the cumulative volume of precipitation (in mm) over the next 3 days. Both models will be deployed as APIs on Render to enable easy integration with Open Meteo’s existing services.
+As part of Open Meteo’s AI integration initiative, two machine learning models are developed to improve weather forecasting for Sydney. The first model is a binary classifier designed to predict whether rain will occur exactly 7 days from a given date. The second model is a regression model aimed at forecasting the cumulative volume of precipitation (in mm) over the next 3 days. Both models will be deployed as APIs on Render to enable easy integration with Open Meteo’s existing services.
 
 ## Project Organization
 
@@ -24,7 +24,7 @@ As part of Open Meteo’s AI integration initiative, two machine learning models
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. Following naming convention '36120-25SP-<student_id>-AT2-experiment_<number>'
+├── notebooks          <- Jupyter notebooks. Following naming convention '36120-25SP-25677648-AT2-experiment_<number>'
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         36120_25sp_at2_25677648_experimentation and configuration for tools like black
